@@ -1,4 +1,4 @@
-
+/*MEC, c'est du JAVA ... T'as pas honte */
 import java.awt.*;
 
 import javax.swing.*;
