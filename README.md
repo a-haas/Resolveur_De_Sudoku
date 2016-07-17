@@ -14,7 +14,7 @@ Exécution : java Sudoku
 
 ## Notes
 
-Pour toutes informations complémentaires concernant l'algorithme, ou l'implémentation, sont disponible dans le fichier pdf Graph_Theory du répo.
+Toutes les informations complémentaires concernant l'algorithme, ou l'implémentation, sont disponible dans le fichier pdf Graph_Theory du répo.
 
 ## Crédits
 
